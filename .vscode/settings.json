@@ -1,0 +1,18 @@
+{
+    "emmet.syntaxProfiles": {
+        "vue-html": "html",
+        "vue": "html"
+    },
+    "files.associations": {
+        "*.vue": "vue",
+        "vue": "html",
+        "vue-html": "html"
+    },
+    "emmet.includeLanguages": {
+        "vue-html": "html", 
+        "javascript": "javascriptreact"
+    },
+    "vetur.colorDecorators.enable": true,
+    "vetur.validation.template": true,
+
+}
